@@ -5,6 +5,7 @@ FreshFoods is a dynamic and feature-rich E-commerce website built on the Laravel
 Admins can manage products, categories, and user accounts seamlessly, ensuring the latest and most appealing products are showcased to customers. In addition, FreshFoods features a robust role management system, giving super admins the ability to allocate specific roles and permissions to other administrators, thereby maintaining the highest level of security and control.
 
 With its combination of cutting-edge technologies and user-friendly design, FreshFoods delivers a seamless shopping experience for customers while providing powerful tools for administrators to efficiently manage and customize the platform to meet their specific needs.
+
 =======
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
